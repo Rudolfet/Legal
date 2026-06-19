@@ -71,6 +71,6 @@ This Privacy Policy may be updated from time to time. Updates will be published 
 
 ## Contact
 
-For questions regarding this Privacy Policy, support requests or data concerns:
+For questions regarding this Privacy Policy, support requests or data concerns: hermannthierry 
 
 GitHub Issues or the relevant project support channels may be used to contact the project maintainer.
