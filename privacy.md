@@ -9,7 +9,7 @@ This Privacy Policy applies to the following projects:
 - TeamBridge
 - Personal Recent Wiki
 
-These services are community-operated tools designed to integrate with Discord and related platforms.
+These services are community-operated tools designed to integrate with Discord and related platforms. These services are community-operated and may be developed by volunteer contributors.
 
 ## Information We Process
 
