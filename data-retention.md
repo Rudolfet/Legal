@@ -1,4 +1,5 @@
 # Data Retention Policy
+**Last updated:** 26 June 2026
 
 ## Scope
 
