@@ -1,77 +1,82 @@
 # Privacy Policy
 
-Last updated: 20 June 2026
+**Last updated:** 26 June 2026
 
 ## Overview
 
-This Privacy Policy applies to the following projects:
+This Privacy Policy applies to the following community-operated projects:
 
-- TeamBridge
-- Personal Recent Wiki
+* TeamBridge
+* MyPersonalWiki-Bot (Personal Recent Wiki)
 
-These services are community-operated tools designed to integrate with Discord and related platforms. They may be developed and maintained by volunteer contributors.
+These services are volunteer-maintained tools designed to integrate with Discord, wiki platforms and related services. They are not affiliated with or endorsed by Discord, GitHub, wiki.gg, Atlassian or any other third-party platform unless explicitly stated.
 
 ## Information We Process
 
-The services may process limited information necessary for their operation, including:
+Depending on the project and its configuration, the services may process only the information required to operate correctly, including:
 
-- Discord server identifiers
-- Discord channel identifiers
-- Discord thread identifiers
-- Discord user identifiers when required for bot functionality
-- Wiki page titles, URLs and related metadata
-- Log data generated during normal operation
+* Discord server, channel, forum and thread identifiers
+* Discord message identifiers where necessary
+* Discord user identifiers when required for bot functionality
+* Wiki page titles, namespaces, URLs and publicly available Recent Changes metadata
+* Technical logs generated during normal operation
+* Configuration data required to operate the services
 
-The services do not intentionally collect personal profile information beyond what is required for Discord integrations and bot functionality.
+The services do not intentionally collect personal profile information beyond what is necessary to provide their functionality.
 
 ## How Information Is Used
 
-Information is used solely to:
+Processed information is used exclusively to:
 
-- Provide bot functionality
-- Create and manage discussion threads
-- Process wiki-related events and notifications
-- Troubleshoot technical issues
-- Maintain service reliability and security
+* provide bot functionality;
+* create and manage Discord discussions or forum threads;
+* process and relay wiki-related events;
+* synchronize information between supported platforms;
+* diagnose errors and improve service reliability;
+* protect the integrity and security of the services.
+
+Information is never processed for advertising or profiling purposes.
 
 ## Data Sharing
 
-Information processed by the services is not sold, rented or shared with third parties for marketing purposes.
+The services do not sell, rent or share personal information for marketing purposes.
 
-Data may be shared only when required by applicable law or when necessary to operate the services through third-party platforms such as Discord.
+Information is shared only when necessary to provide the requested functionality through third-party platforms (for example Discord, wiki.gg or Jira) or when required by applicable law.
 
 ## Data Retention
 
-Operational data, logs and configuration information may be retained for as long as necessary to provide and maintain the services.
+Operational logs, configuration files and service metadata may be retained only for as long as reasonably necessary to operate, maintain and troubleshoot the services.
 
-Data may be deleted, anonymized or archived when it is no longer required.
+Where practical, obsolete information may be removed, anonymized or archived.
 
 ## Security
 
-Reasonable technical and organizational measures are used to protect stored information. However, no method of electronic storage or transmission can be guaranteed to be completely secure.
+Reasonable administrative, technical and organizational measures are used to protect processed information. However, no electronic service can guarantee absolute security.
 
 ## Third-Party Services
 
-These projects rely on third-party services that maintain their own privacy policies, including:
+These projects rely on third-party services which maintain their own independent privacy policies, including:
 
-- Discord
-- GitHub
-- Wiki.gg
-- Jira (where applicable)
+* Discord
+* GitHub
+* wiki.gg
+* Atlassian Jira (where applicable)
 
 Users should review the privacy policies of those services separately.
 
 ## Children's Privacy
 
-These services are not directed toward children under the age required by Discord's Terms of Service.
+These services are not intended for individuals who are below the minimum age required to use Discord or other supported platforms.
 
 ## Changes to This Policy
 
-This Privacy Policy may be updated from time to time. Updates will be published on this page.
+This Privacy Policy may be updated periodically.
+
+Any changes will be published in this repository together with the updated revision date.
 
 ## Contact
 
-For questions regarding this Privacy Policy, support requests or data concerns, please contact the project maintainer via:
+Questions regarding this Privacy Policy, data processing or support requests may be directed to the project maintainer through:
 
-- Discord: hermannthierry
-- GitHub Issues
+* Discord: **hermannthierry**
+* GitHub Issues (for the relevant project repository)
